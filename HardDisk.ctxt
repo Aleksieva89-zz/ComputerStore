@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=c\ s\ m
+comment0.target=HardDisk(int,\ int,\ java.lang.String)
+comment0.text=\n\ Constructor\ of\ the\ class\ \n\ @param\ c\ The\ cost\n\ @param\ s\ The\ size\n\ @param\ m\ The\ manufacturer\n
+comment1.params=
+comment1.target=int\ getSize()
+comment1.text=\n\ @return\ The\ size\ of\ the\ hardisk\n
+comment2.params=s
+comment2.target=void\ setSize(int)
+comment2.text=\n\ Define\ the\ size\ of\ the\ hardisk\n
+comment3.params=
+comment3.target=void\ printSummary()
+comment3.text=\n\ Print\ out\ a\ summary\ about\ the\ hardisk\n
+numComments=4

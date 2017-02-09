@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Computer()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Computer\n\ takes\ no\ parameters\n\ it\ call\ the\ constructor\ of\ each\ of\ the\ fields\n
+comment1.params=name\ c
+comment1.target=void\ addComponent(java.lang.String,\ Component)
+comment1.text=\n\ Add\ a\ component\ to\ the\ collection\n\ @param\ name\ The\ name\ of\ the\ components\n\ @param\ c\ The\ type\ of\ the\ component\n
+comment2.params=name
+comment2.target=void\ removeComponent(java.lang.String)
+comment2.text=\n\ Remove\ a\ component\ from\ the\ collection\n\ @param\ name\ The\ name\ of\ the\ component\n
+comment3.params=
+comment3.target=void\ printComputerSummary()
+comment3.text=\n\ This\ method\ prints\ a\ summary\ of\ the\ Computer\ components\ and\ by\ using\ the\ the\ getPrice\ method,\n\ it\ prints\ out\ the\ total\ price\n
+comment4.params=
+comment4.target=int\ getPrice()
+comment4.text=\n\ Accessor\ method\ for\ the\ total\ cost\ of\ the\ components\ \n\ @return\ The\ total\ cost\n
+numComments=5

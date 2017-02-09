@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=cost\ m\ c
+comment0.target=Processor(int,\ java.lang.String,\ int)
+comment0.text=\nConstructor\ for\ objects\ of\ the\ class\ processor\n@param\ cost\ The\ cost\ of\ the\ proccesor\n@param\ m\ The\ manufacturer\ of\ the\ processor\n@param\ c\ The\ clockSpeed\ of\ the\ processor\n
+comment1.params=
+comment1.target=int\ getClockSpeed()
+comment1.text=\n\ Accesor\ method\ for\ geting\ the\ clock\ speed\ of\ the\ processor\n\ @return\ clockSpeed\n
+comment2.params=clockSpeed
+comment2.target=void\ setClockSpeed(int)
+comment2.text=\n\ Mutator\ method\ for\ setting\ the\ clock\ speed\ of\ the\ processor\n\ @param\ clockSpeed\n
+comment3.params=
+comment3.target=void\ printSummary()
+comment3.text=\n\ This\ method\ prints\ out\ the\ summary\ for\ the\ processor\n
+numComments=4

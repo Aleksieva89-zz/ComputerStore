@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=initCost\ diagonal\ color\ manufacturer
+comment0.target=Display(int,\ double,\ java.lang.String,\ java.lang.String)
+comment0.text=\n\ Constructor\ of\ objects\ for\ the\ class\ Display\n\ @param\ initCost\ The\ cost\ of\ the\ display\n\ @param\ diagonal\ The\ diagonal\ of\ the\ display\n\ @param\ color\ The\ color\ of\ the\ display\n\ @param\ manufacturer\ The\ manufacturer\ of\ the\ display\n
+comment1.params=
+comment1.target=double\ getDiagonal()
+comment1.text=\n\ Accesor\ method\ for\ the\ diagonal\n\ @return\ The\ diagonal\n
+comment2.params=d
+comment2.target=void\ setDiagonal(double)
+comment2.text=\n\ Mutator\ method\ for\ seting\ the\ diagonal\ of\ the\ dispaly\n
+comment3.params=
+comment3.target=java.lang.String\ getColor()
+comment3.text=\n\ Accesor\ method\ for\ the\ color\n\ @return\ The\ color\n
+comment4.params=color
+comment4.target=void\ setColor(java.lang.String)
+comment4.text=\n\ Mutator\ method\ for\ the\ color\n
+comment5.params=
+comment5.target=void\ printSummary()
+comment5.text=\n\ Prints\ out\ the\ summary\ for\ the\ Display\n
+numComments=6
