@@ -59,7 +59,7 @@ public class Component
     }
     
     /**
-     * Prints out the summary of the component
+     * Prints out the summary of the component values
      */
     public void printSummary(String type) {
         System.out.print(type +" of cost:" + cost + " from maker:" + manufacturer);
